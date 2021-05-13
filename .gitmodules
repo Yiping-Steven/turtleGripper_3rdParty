@@ -7,6 +7,3 @@
 [submodule "open_manipulator_controls"]
 	path = open_manipulator_controls
 	url = https://github.com/ROBOTIS-GIT/open_manipulator_controls.git
-[submodule "navigation_tutorial"]
-	path = navigation
-	url = https://github.com/ros-planning/navigation.git
