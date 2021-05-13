@@ -1,0 +1,15 @@
+[submodule "DynamixelSDK"]
+	path = DynamixelSDK
+	url = ./manipulation/DynamixelSDK
+[submodule "dynamixel-workbench"]
+	path = dynamixel-workbench
+	url = ./manipulation/dynamixel-workbench
+[submodule "open_manipulator_dependencies"]
+	path = open_manipulator_dependencies
+	url = ./manipulation/open_manipulator_dependencies
+[submodule "open_manipulator_controls"]
+	path = open_manipulator_controls
+	url = ./manipulation/open_manipulator_controls
+[submodule "navigation"]
+	path = navigation
+	url = ./navigation
