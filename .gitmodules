@@ -1,15 +1,15 @@
 [submodule "DynamixelSDK"]
-	path = DynamixelSDK
-	url = ./manipulation/DynamixelSDK
+	path = ./manipulation/DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 [submodule "dynamixel-workbench"]
-	path = dynamixel-workbench
-	url = ./manipulation/dynamixel-workbench
+	path = ./manipulation/dynamixel-workbench
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench/dynamixel-workbench
 [submodule "open_manipulator_dependencies"]
 	path = open_manipulator_dependencies
-	url = ./manipulation/open_manipulator_dependencies
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_dependencies.git
 [submodule "open_manipulator_controls"]
-	path = open_manipulator_controls
-	url = ./manipulation/open_manipulator_controls
-[submodule "navigation"]
+	path = ./manipulation/open_manipulator_controls
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_controls.git
+[submodule "navigation_tutorial"]
 	path = navigation
-	url = ./navigation
+	url = https://github.com/ros-planning/navigation.git
